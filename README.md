@@ -21,7 +21,7 @@ This is an end to end Chess Pieces Object detection Project where the pieces in 
     
  ![Capture](https://user-images.githubusercontent.com/55132850/155108555-133f5263-e013-45c0-8731-2548489e0101.PNG)
    
- > Open the project in Pychram or VS code 
+ <!-- > Open the project in Pychram or VS code 
 
     > Create a new Conda environemnt 
     - File > Settings > Python Interpretor > Add > #### Results:Create new conda environment
@@ -32,7 +32,7 @@ This is an end to end Chess Pieces Object detection Project where the pieces in 
 
     > Run the project find it on http://127.0.0.1:8000/
 
-    > Kindly use some of the images in sample images folder for testing it or you can see the SS below.
+    > Kindly use some of the images in sample images folder for testing it or you can see the SS below. -->
 
 #### Results:
 
