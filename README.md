@@ -41,15 +41,15 @@ This is an end to end Chess Pieces Object detection Project where the pieces in 
 
 Step 1 : Click on Upload and choose the image.
 
-![Screenshot (302)](https://github.com/tharunShankar/images/blob/main/home1(1).png)
+![home1(1)](https://user-images.githubusercontent.com/90520726/157793870-642fce99-67ec-48d5-809b-9e6cbbc7063a.png)
 
 Step 2 : Now Click on Predict to perform the object detection using the custom model created. 
 
-![Screenshot (303)](https://user-images.githubusercontent.com/55132850/155110181-3d5dcc71-e8ef-4446-8046-9b2cb260ca85.png)
+![home0](https://user-images.githubusercontent.com/90520726/157793992-b1c96018-3a6e-4f1b-8028-19124b4e674b.png)
 
 Step :3 Your Results will be shown lik ebelow. It will also be saved in the saem older in your directory.
 
-![Screenshot (304)](https://user-images.githubusercontent.com/55132850/155110160-f2f3b660-053b-49ce-8500-5ac90a0b3834.png)
+![home 2(2)](https://user-images.githubusercontent.com/90520726/157794038-75fa5ce7-17ce-42de-8f7d-50e1878e25e8.png)
 
       
    
