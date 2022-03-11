@@ -41,7 +41,7 @@ This is an end to end Chess Pieces Object detection Project where the pieces in 
 
 Step 1 : Click on Upload and choose the image.
 
-![Screenshot (302)](https://user-images.githubusercontent.com/55132850/155110176-a31b3c73-bfb2-40ee-af26-aecf6ca9ae90.png)
+![Screenshot (302)](https://github.com/tharunShankar/images/blob/main/home1(1).png)
 
 Step 2 : Now Click on Predict to perform the object detection using the custom model created. 
 
